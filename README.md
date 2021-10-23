@@ -1,7 +1,7 @@
 # Silva_132_99_16S Pre-trained classifier for V3-V4 region
 *Compatible with qiime2-2021.8 (scikit-learn ver 0.24.1)*
 
-## [Download classifier here](https://drive.google.com/file/d/1uOHp3J25nhsSVEvwEqAw8uikbwocK_fq/view?usp=sharing)
+## [Download classifier here](https://drive.google.com/file/d/1ftLKI_oxLMfn55NOjyiI55K-Dc_FxRbi/view?usp=sharing)
 
 This is pre-trained classifier for the 16S V3-V4 region (341f - 806r) trained on [Silva 132 99% ref sequences and corresponding 7-level taxonomic classifications](https://www.arb-silva.de/download/archive/qiime). 
 

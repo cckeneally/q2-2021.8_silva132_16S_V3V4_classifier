@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this classifier, please cite it as below."
+authors:
+- family-names: "Keneally"
+  given-names: "Christopher"
+  orcid: "https://orcid.org/0000-0001-7261-6259"
+title: "q2-2021.8_silva132_16S_V3V4_classifier"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2021-10-23
+url: "https://github.com/cckeneally/q2-2021.8_silva132_16S_V3V4_classifier"

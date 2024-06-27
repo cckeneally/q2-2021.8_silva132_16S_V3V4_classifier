@@ -1,5 +1,5 @@
 # Silva_132_99_16S Pre-trained classifier for V3-V4 region
-*Compatible with qiime2-2021.8 (scikit-learn ver 0.24.1)*
+*Compatible with qiime2-2021.10*
 
 ## [Download classifier here](https://drive.google.com/file/d/1ftLKI_oxLMfn55NOjyiI55K-Dc_FxRbi/view?usp=sharing)
 
